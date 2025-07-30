@@ -1,6 +1,6 @@
 👋 Welcome to Uzair Studios
 
-Hi! I'm Uzair, an undergraduate student and passionate self-learner exploring the world of programming and AI.
+Hi! I'm Uzair, an undergraduate AI student and passionate self-learner exploring the world of programming and AI.
 This GitHub profile is my learning studio a place where I share my progress, code experiments, and ideas.
 
 🧠 About Me
