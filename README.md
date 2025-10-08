@@ -16,16 +16,17 @@ This GitHub profile is my learning studio a place where I share my progress, co
 * 🛠️ Beginner-level projects and learning experiments
 * 📦 Resources and guides I create for myself and others
 
- 🚧 Current Learning Topics
-
+What I have learned
 * ✅ C++ syntax and logic building
 * ✅ Python scripting
+
+ 🚧 Current Learning Topics
 * ✅ HTML/CSS basics for web
 
  📫 Connect with Me
 
-* 📧 Email: uzair18x@proton.me
+* 📧 Email: Uzairfaraz17@gmail.com
 * 🌐 Portfolio (coming soon)
-
+* 
 > ✨ Thanks for visiting!
 > This profile is a learning log, so feel free to explore, learn, or share feedback!
